@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="UTF-8" />
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <title>About Tanmayi Kurra</title>
+    </head>
+    
+    <h2>Welcome to my about me page!</h2>
+    <hr />
+
+
+    <body>
+    <!-- About me, my major, and why I chose it! Also about where I worked and my dream job! -->
+
+    <p>My name is Tanmayi Kurra and I am a freshman at NCSU! I wasn't sure about what to major in at first, but <i>Statistics</i> has always been my favorite
+      class in high school and my teacher made it very interesting. I also really like the Statistics program at
+      NCSU and thought it would be the perfect major for me. I like how there are many coding classes in the major, and
+      still have a variaty of theoretical Statistics classes.
+    </p>    
+
+    <p style = "font-size:20px; font-family: sans-serif; color:ffffff; text-align:center;"> I have worked in <b>Tropical Smoothie Cafe</b> for a couple months my senior year in highschool and as a basketball
+      score keeper for Town of Cary in 9th grade. My dream job would be a <u>data analyst or a data scientist</u>. I think it
+      is very intersting to work with data after taking an intro to R and Python class here at NCSU and I found it interesting
+      how data can be visualized with code or how we can use statistical methods when coding. I do not have a job right now though. 
+    </p>    
+    </body>
+    </body>
+    <hr>
+
+    <br />
+    <br />
+
+
+    <!-- A list of my four fav classes! -->
+    <h4>list of my favorite things</h4>
+
+    <ul>
+      <li> ST 307 </li>
+      <li> ST 312 </li>
+      <li> MA 241 </li>
+      <li> ST 308 </li>
+    </ul>
+
+    <br />
+     <!-- A table of my fav organizations at NCSU! -->
+     <table class = "table-border">
+      <tr> <th>Club </th> <th>Link to Club </th> </tr>
+      <tr> <td> Alpha Phi Alpha </td> <td><a href = "https://getinvolved.ncsu.edu/organization/40" target = "blank">Link to Club</a></td> </tr>
+      <tr> <td> Club Tennis </td> <td><a href = "https://getinvolved.ncsu.edu/organization/173" target = "blank">Link to Club</a></td></tr>
+      </table>
+  
+      <br />
+
+    <!-- A photo of mine that links to my student email! -->
+    <a href = "mailto:tkurra@ncsu.edu"><img src = "photo_of_me.png" alt = "A photo of Tanmayi" class = "ImageBorder">
+   
+
+    </body>
+    
+</html>
