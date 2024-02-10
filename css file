@@ -1,0 +1,19 @@
+p {
+    font-family: Times;
+    font-size : 16px;
+    color: #A67B5B;
+    
+}
+body {
+    background-color:#EDC9AF;
+}
+
+.table-border {
+    border: 6px solid #0000ff;
+}
+
+.ImageBorder {
+    max-width: 200 px;
+    max-height: 250 px;
+    color: green
+}
